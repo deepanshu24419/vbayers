@@ -632,3 +632,8 @@ html {
   }
 }
 /* End of Responsive */
+.link-deep {
+  font-family: cursive;
+  text-decoration: none;
+  font-size: 2rem;
+}
